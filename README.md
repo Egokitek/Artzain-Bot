@@ -43,7 +43,12 @@ El enlace lo tienes [aquí](BOM.xlsx):
 
 **Artzain-Bot** es un concepto creado por **Victor Barahona** de **[Egokitek](https://www.egokitek.com/)**.
 
-Este proyecto se ha basado en los rover marcianos como **[Curiosity](https://es.wikipedia.org/wiki/Curiosity)** y diversos **[UGV](https://es.wikipedia.org/wiki/Veh%C3%ADculo_terrestre_no_tripulado)** de uso en la Tierra, particularmente **[Leorover](https://www.leorover.tech/)** .
+Este proyecto se ha basado en los rover marcianos como **[Curiosity](https://es.wikipedia.org/wiki/Curiosity)** y diversos **[UGV](https://es.wikipedia.org/wiki/Veh%C3%ADculo_terrestre_no_tripulado)** de uso en la Tierra, como **[Leorover](https://www.leorover.tech/)** .
+
+La electrónica y software se han adaptado a partir de la plataforma **[OpenBot](https://github.com/intel-isl/OpenBot)**.
+
+El paper que describe el proyecto Openbot lo tienes en https://arxiv.org/abs/2008.10631
+
 
 ## Licencia
 
